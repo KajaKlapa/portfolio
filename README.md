@@ -4,7 +4,7 @@ My Tester's Portfolio
 
 # About me
 
-Jestem absolwentką kierunków Energetyka oraz Mechanika i Budowa Maszyn na Politechnice Krakowskiej. Obecnie pracuję jako inżynier projektu w firmie działającej w branży projektowania wnętrz. Jestem osobą skrupulatną i sumienna, podchodzę wyzwaniowo do powierzonych mi zadań, dobrze odnajduję się w pracy w grupie. 
+I graduated from Power Engineering and Mechanical Engineering in Cracow University of Technology. Currntly I work as a Project Engineer in the field of archiectural woodwork.
 
 # Tools
 
