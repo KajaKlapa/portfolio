@@ -6,6 +6,7 @@ My Tester's Portfolio
 
 I graduated from Power Engineering and Mechanical Engineering in Cracow University of Technology. Currntly I work as a Project Engineer in the field of archiectural woodwork.
 
+
 # Tools
 
 
