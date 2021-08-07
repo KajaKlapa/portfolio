@@ -4,20 +4,34 @@ My Tester's Portfolio
 
 # About me
 
-I graduated from Power Engineering and Mechanical Engineering in Cracow University of Technology. Currntly I work as a Project Engineer in the field of archiectural woodwork.
+I graduated from Power Engineering and Mechanical Engineering in Cracow University of Technology. Currntly I work as a Project Engineer in the field of archiectural woodwork. Recently I started to be interted in software testing. 
 
 
 # Tools
 
+* Jira
+* Confluence
+* TestRail
+* Selenium
+* GIT
 
 # Tech skills
 
+* Basics of JAVA
+* Basics of SQL
+* Software Testing
+* Finding Bugs
+* Reporting Bugs
+* Creating Test Cases
+* Creating Test Scenarios
+* Finging CSS Selectors
+* Finding xPaths
+* Creating Decision Tables
+* Understanding the SCRUM Framework
 
 # Books
 
-
-# Recommended blogs
-
+R. Smilgin "Zawód Tester"
 
 # Webinars
 
