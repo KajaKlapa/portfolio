@@ -24,7 +24,7 @@ I graduated from Power Engineering and Mechanical Engineering in Cracow Universi
 * Reporting Bugs
 * Creating Test Cases
 * Creating Test Scenarios
-* Finging CSS Selectors
+* Finding CSS Selectors
 * Finding xPaths
 * Creating Decision Tables
 * Understanding the SCRUM Framework
@@ -32,9 +32,6 @@ I graduated from Power Engineering and Mechanical Engineering in Cracow Universi
 # Books
 
 R. Smilgin "Zawód Tester"
-
-# Webinars
-
 
 # My test case examples
 
