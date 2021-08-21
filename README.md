@@ -4,7 +4,7 @@ My Tester's Portfolio
 
 # About me
 
-I graduated from Power Engineering and Mechanical Engineering in Cracow University of Technology. Currntly I work as a Project Engineer in the field of archiectural woodwork. Recently I started to be interted in software testing. 
+I graduated from Power Engineering and Mechanical Engineering in Cracow University of Technology. Currntly I work as a Project Engineer in the field of archiectural woodwork. Recently I started to be interted in software testing. Ater my work hours I pracise my testing skills. I became a member of uTest community, where I learned how to write bug reports, execute test cases and collect logs. Software testing as well as finding bugs is very challenging for me and satisfying.
 
 
 # Tools
