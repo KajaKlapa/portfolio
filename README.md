@@ -37,7 +37,8 @@ R. Smilgin "Zawód Tester"
 
 
 # My bug reports
-
+Testing the webpage [a-manada.pl/](https://a-manada.pl/):
+- [Bug report](https://docs.google.com/document/d/1iUf3ZrhWnuVQy1kdCzWf3JErzcS2NPnoEcZUor2WUXQ/edit?usp=sharing)
 
 # My projects
 
