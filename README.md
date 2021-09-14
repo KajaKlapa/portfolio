@@ -31,10 +31,7 @@ I graduated from Power Engineering and Mechanical Engineering in Cracow Universi
 
 # Books
 
-R. Smilgin "Zawód Tester"
-
-# My test case examples
-
+R. Smilgin "Zawód Tester" - in progress
 
 # My bug reports
 Testing the webpage [a-manada.pl/](https://a-manada.pl/):
